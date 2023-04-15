@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/alicia-bytes-digital-garden/","title":"Digital Garden","tags":["gardenEntry"],"created":"","updated":""}
+{"dg-publish":true,"permalink":"/alicia-bytes-digital-garden/","title":"AliciaBytes' Digital Garden","tags":["gardenEntry"],"created":"","updated":""}
 ---
 
 
