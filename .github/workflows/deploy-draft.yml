@@ -1,0 +1,27 @@
+name: deploy draft
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: "lts/*"
+          cache: "npm"
+      - run: npm install
+      - run: npm run build
+      - name: Publish to Netlify
+        uses: netlify/actions/cli@master
+        with:
+          args: deploy --dir=dist --functions=netlify/functions
+        env:
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+        timeout-minutes: 5
