@@ -21,7 +21,7 @@ jobs:
               uses: nwtgck/actions-netlify@v2.0.0
               with:
                   publish-dir: "./dist"
-                  functions-dir: "./netlify"
+                  functions-dir: "./netlify/functions"
                   netlify-config-path: "./netlify.toml"
                   production-branch: main
                   github-token: ${{ secrets.GITHUB_TOKEN }}
