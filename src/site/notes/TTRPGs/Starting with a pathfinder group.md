@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/ttrp-gs/starting-with-a-pathfinder-group/","title":"Start with Pathfinder 2e","created":"2023-05-11T18:27:20.840+02:00","updated":"2023-05-11T20:13:12.889+02:00"}
+{"dg-publish":true,"permalink":"/ttrp-gs/starting-with-a-pathfinder-group/","title":"Start with Pathfinder 2e","created":"2023-05-11T18:27:20.840+02:00","updated":"2023-05-11T20:20:45.810+02:00"}
 ---
 
 
-# Start with Patfhinder 2e
+# Start with Pathfinder 2e
 
 Pathfinder 2e build on the same roots as D&D and indeed 1st edition is relatively similar to D&D 3.5e. Pathfinder 2e diverges a bit with a lot of modernizations and mechanic changes, so it needs some adjustment coming from D&D, PF 1e or other roleplaying games.
 
