@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrp-gs/starting-with-a-pathfinder-group/","title":"Start with Pathfinder 2e","created":"2023-05-11T18:27:20.840+02:00","updated":"2023-05-11T20:06:59.710+02:00"}
+{"dg-publish":true,"permalink":"/ttrp-gs/starting-with-a-pathfinder-group/","title":"Start with Pathfinder 2e","created":"2023-05-11T18:27:20.840+02:00","updated":"2023-05-11T20:07:44.246+02:00"}
 ---
 
 
@@ -34,15 +34,15 @@ It includes 4 pregenerated characters for the party, but I don't want to limit c
 After the beginner box I'd like to continue a while with some official content (although with some adjustments and homebrew to make it a bit more unique) before going for a completely custom adventure. There are several options for that by either:
 
 - Adding some more quests onto the story of the beginner box.
-- Playing 1 or 2 one shot adventures with different settings and tones.
+- Playing 1 or 2 one-shot adventures with different settings and tones.
 - Going into the Abomination Vaults adventure path for a bit of a bigger adventure (designed for levels 1-11 and quite a bit more extensive). ***Warning: This adventure path has several content warnings.*** This one, like all official adventure paths also has a spoiler free players guide, and since it plays in the same area as the beginner box. See the section on it below for a link to the player's guide if you want to familiarize yourself with the area a bit more on your own before I share more lore. ***But be aware of the content warning for the adventure path, although the player guide shouldn't contain anything problematic, there might still be something in there***.
 - Depending on things I might maybe get some other content as a choice, we'll see what's interesting.
 
-## Possible follow up oneshots
+## Possible follow up one-shots
 
 These follow up one shots have a few different settings and are also designed for different levels. We can choose together which ones are most interesting if we want to continue with one of those. All the oneshots also come with pregenerated characters to choose from, but again you can create your own character that fits the setting.
 
-Options that I'm considering are currently in increasing level of the oneshots:
+Options that I'm considering are currently in increasing level of the one-shots:
 
 ### Little Troubles in Big Absalom
 
