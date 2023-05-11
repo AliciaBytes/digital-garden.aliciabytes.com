@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrp-gs/starting-with-a-pathfinder-group/","title":"Start with Pathfinder 2e","created":"2023-05-11T18:27:20.840+02:00","updated":"2023-05-11T20:08:59.951+02:00"}
+{"dg-publish":true,"permalink":"/ttrp-gs/starting-with-a-pathfinder-group/","title":"Start with Pathfinder 2e","created":"2023-05-11T18:27:20.840+02:00","updated":"2023-05-11T20:09:11.096+02:00"}
 ---
 
 
@@ -19,7 +19,7 @@ Feel free to talk to me or ask me about pathfinder or anything written here if y
 
 There is a recommended adventure with the Beginner's Box that nicely introduces players and the GM to the gameplay and rules, I'd love to start with this first and then go from there. It's supposed to be about 12 hours of gameplay across multiple sessions covering level 1 & 2 to get a common starting ground.
 
-It includes 4 pregenerated characters for the party, but I don't want to limit choices to those. I'll tell you when a character doesn't fit at all and you should maybe choose something else, but for the most part just let your mind run free and go forwhat you want, I want to leave a lot of flexibility. All the character options are free online and officially sanctioned online, see [Free online rules](#free-online-rules).
+It includes 4 pregenerated characters for the party, but I don't want to limit choices to those. I'll tell you when a character doesn't fit at all and you should maybe choose something else, but for the most part just let your mind run free and go for what you want, I want to leave a lot of flexibility. All the character options are free online and officially sanctioned online, see [Free online rules](#free-online-rules).
 
 > [!abstract] Setting
 > The small seaside town of Otari is known for its fresh fish and skilled sailors, but above all, it’s a big logging town, providing valuable wood to the nearby metropolis of Absalom. But for you, Otari is home. You grew up playing on the docks, getting lost in the nearby woods, and hearing the fantastical stories of travelers from faraway lands, tales of terrifying dragons and virtuous knights. Such adventure always seemed so distant—until today!
