@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"ttrpgs/pathfinder-2e","permalink":"/ttrpgs/pathfinder-2e/","title":"Pathfinder 2e","tags":["TTRPGs"],"created":"2023-01-23T09:39:23.653+01:00","updated":"2023-04-18T19:39:24.321+02:00"}
+{"dg-publish":true,"dg-permalink":"ttrpgs/pathfinder-2e","permalink":"/ttrpgs/pathfinder-2e/","title":"Pathfinder 2e","tags":["TTRPGs"],"created":"2023-01-23T09:39:23.653+01:00","updated":"2023-04-19T09:43:03.961+02:00"}
 ---
 
 
