@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrp-gs/starting-with-a-pathfinder-group/","title":"Start with Pathfinder","created":"2023-05-11T18:27:20.840+02:00","updated":"2023-05-11T18:28:32.908+02:00"}
+{"dg-publish":true,"permalink":"/ttrp-gs/starting-with-a-pathfinder-group/","title":"Start with Pathfinder 2e","created":"2023-05-11T18:27:20.840+02:00","updated":"2023-05-11T18:31:46.151+02:00"}
 ---
 
 
