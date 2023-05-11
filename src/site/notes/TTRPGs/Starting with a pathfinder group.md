@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrp-gs/starting-with-a-pathfinder-group/","title":"Start with Pathfinder 2e","created":"2023-05-11T18:27:20.840+02:00","updated":"2023-05-11T18:49:17.290+02:00"}
+{"dg-publish":true,"permalink":"/ttrp-gs/starting-with-a-pathfinder-group/","title":"Start with Pathfinder 2e","created":"2023-05-11T18:27:20.840+02:00","updated":"2023-05-11T19:49:42.454+02:00"}
 ---
 
 
@@ -22,7 +22,6 @@ There is a recommended adventure with the Beginner's Box that nicely introduces 
 It includes 4 pregenerated characters for the party, but I don't want to limit choices to those. I'll tell you when a character doesn't fit at all and you shoul'd maybe choose something else, but for the most part just let your mind run free and go forwhat you want, I want to leave a lot of flexibility. All the character options are free online and officially sanctioned online, see [[TTRPGs/Starting with a pathfinder group#Free online rules\|#Free online rules]].
 
 > [!abstract] Setting
-> 
 > The small seaside town of Otari is known for its fresh fish and skilled sailors, but above all, it’s a big logging town, providing valuable wood to the nearby metropolis of Absalom. But for you, Otari is home. You grew up playing on the docks, getting lost in the nearby woods, and hearing the fantastical stories of travelers from faraway lands, tales of terrifying dragons and virtuous knights. Such adventure always seemed so distant—until today!
 > 
 > Word has begun to spread around Otari that there’s a problem down at the Otari Fishery. Some are saying that some sort of beast is lurking in the basement, feeding on the stores of salted fish. Folks are worried that whatever is eating the fish might get hungry enough to eat the fishers next!
@@ -30,8 +29,7 @@ It includes 4 pregenerated characters for the party, but I don't want to limit c
 > You’ve received a letter from Tamily Tanderveil, the owner of the Fishery. Inside is a desperate plea for help. With the town guard busy protecting the loggers, she needs a few brave souls to venture down into the basement of her warehouse and put an end to the beast that’s feasting on her fish! Do you have the courage to face the menace under Otari?
 
 > [!info] Info
-> 
-> The adventure will take place in Otari, but your character doesn't necessarily have to originally be from Otari, we can find other ties to the city and why your character is from there. I can provide further background and information on the town upon request and you will learn more about it at the start of the game anyways.
+> The adventure will take place in Otari, but your character doesn't necessarily have to originally be from Otari, we can find other ties to the city and why your character is looking for adventure there. I can provide further background and information on the town upon request and you will learn more about it at the start of the game anyways.
 
 After the beginner box I'd like to continue a while with some official content (although with some adjustments and homebrew to make it a bit more unique) before going for a completely custom adventure. There are several options for that by either:
 
@@ -60,7 +58,6 @@ This adventure is designed for a party of level 1 characters and set in Absalom,
 This adventure is designed for a party of level 3 characters. A rich noblewoman wanting to much and not caring about the ethics of keeping other living beings as decoration? What will you do to break out and regain your freedom?
 
 > [!abstract] Setting
-> 
 > The Verduran Forest is the largest woodland in Avistan. Despite the fact that it sprawls across some of the oldest and most powerful nations in the Inner Sea region, the druids, fey, and other residents of the wilderness have always resisted incursions from nearby civilizations. In nations like Andoran, this resistance has often led to violence, as Wildwood druids, protective fey, and local centaurs clash with exploitive logging companies. Yet not all relationships proved so antagonistic; in Taldor, the empire still holds to the Wildwood Treaty it signed in 3841 ar, which grants the forest legal protections and limits the amount of resources locals could take in any given year.
 > 
 > Of course, not every citizen respects the laws of their nations, and selfish or desperate individuals often attempt to skirt Taldor’s regulations. The latest of these infractions occurred when a Taldan noblewoman named Lady Constance Meliosa encountered a peculiar creature on one of her luxury camping expeditions — a tiny plant animated by a nature spirit, known as a leshy. Constance immediately fell in love with the creature and captured them, taking them to her manor to display to all her noble friends. Since the poor leshy couldn’t speak, the nobles interpreted their frantic attempts to escape as nothing more than adorable antics. To Lady Constance and her fellow aristocrats, the leshy was little more than a pet to be brought out on display.
@@ -72,7 +69,6 @@ This adventure is designed for a party of level 3 characters. A rich noblewoman 
 This adventure is designed for a party of level 5 characters. What treasure did your old captain leave behind and how will old pirate crew mates that don't necessarily get along as well and each want their "fair" share of treasure challenge the adventure. You'll have to wait and see what treasure awaits.
 
 > [!abstract] Setting
-> 
 > Five years ago, many regarded the Brass Bird as a fearsome pirate ship that sailed the waters as far north as Varisia and as far south as the Shackles. Captain Renlock recruited a capable crew and though they were relentless in their pursuit of treasure, they rendered mercy upon those they captured—often releasing prisoners to leave aboard relatively undamaged vessels. Still, Captain Renlock’s piracy drew the attention of numerous navies and privateers in Avistan and Garund. When a pirate hunter from the Andoran fleet finally caught up to the Brass Bird, Captain Renlock cut a deal to spare his crew, turning over his ship and himself to commute many of his crew members’ sentences.
 > 
 > Renlock spent the last few years of his life in prison, keeping his trusty clockwork parrot, Cawlo, close by his side. His crew scattered to the wind. Some members of the Brass Bird served time in jail for other crimes, but most were released after only a few months.
@@ -84,7 +80,6 @@ This adventure is designed for a party of level 5 characters. What treasure did 
 This adventure path happens in the same region as the beginner box so it's also an option to carry your characters straight forward, even though they'd start at level 2 instead of level 1. Be warned though, the Abomination Vaults has a darker setting that comes with a content warning. I can adjust things and remove triggering and problematic parts that you don't want to appear in an adventure, but make sure to let me know in time so I can adjust it appropriately in a way that still fits the story and setting.
 
 > [!warning] Content Warning
-> 
 > While Abomination Vaults contains typical Pathfinder action and adventure, it also presents themes of suicide, ableism, body horror, and human experimentation. Before you begin, understand that player consent (including that of the Game Master) is vital to a safe and fun play experience for everyone. You should talk with your players before beginning and modify descriptions or scenarios as appropriate.
 
 The Abomination Vaults is a full on adventure path with a lot of content (levels 1 to 11) and extensive setting, lore, high quality maps and amazing ambience from what I've seen so far. It doesn't include pregenerated characters, so really go wild with your characters. Or if you're not comfortable and want something a little simpler, just continue with one of the pregenerated characters from the beginners box or maybe [[TTRPGs/Starting with a pathfinder group#Little Troubles in Big Absalom\|#Little Troubles in Big Absalom]] since those would be adequate levels as well.
@@ -100,7 +95,6 @@ Official adventure paths always include a player's guide that gives you a spoile
 That said here is a short excerpt of the setting:
 
 > [!abstract] Setting overview
-> 
 > When the mysterious lighthouse called Gauntlight glows with baleful light, the people of Otari suspect that it’s an ominous prelude to sinister events. Heroes must explore the ruins around the lighthouse and delve into the dungeon levels below. Hideous monsters, deadly traps, and vengeful ghosts all await the heroes who dare to enter the sprawling megadungeon called the Abomination Vaults!
 
 If you want the full spoiler free players guide with everything you're allowed to know, check here: [Abomination Vaults - Players Guide](https://downloads.paizo.com/AbominationVaults_PlayersGuide.pdf).
@@ -113,6 +107,6 @@ All the rules, character options, etc. are free and officially sanctioned on the
 
 - [Archives of Nethys](https://2e.aonprd.com/) for all the rules content, character options, etc. available online. Freely and officially sanctioned.
 - [MythKeeper](https://www.youtube.com/@TheMythKeeper/featured) on YouTube for videos about lore and the world of pathfinder if you're interested in it.
-- **Warning: be wary of spoilers for adventures when using this.** [Pathfinder Wiki](https://pathfinderwiki.com/wiki/Pathfinder_Wiki) for lore and additional information.
 - [Pathbuilder 2](https://pathbuilder2e.com) as an online character builder if you want to play around and create characters before I set up the campaign in Foundry. It also allows planning your character in advance if you want to already plan out future options you'd like to choose on level up.
 - [Wanderer's Guide](https://wanderersguide.app/) as an alternative character builder and site to share builds (among other things) if you want to once again play around with a character before I set up the campaign on Foundry.
+- **Warning: be wary of spoilers for adventures when using this.** [Pathfinder Wiki](https://pathfinderwiki.com/wiki/Pathfinder_Wiki) for lore and additional information.
