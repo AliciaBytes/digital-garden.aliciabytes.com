@@ -1172,7 +1172,7 @@ settings:
     min: 0
     max: 30
     step: 2
-    default: 20
+    default: 15
     format: px
 
 # Typography :: Headings :: H1
@@ -2040,6 +2040,21 @@ settings:
       -
         label: Left
         value: 0
+
+# Workspace :: PDF Viewer
+
+  -
+    id: anp-pdf-viewer-header
+    title: PDF Viewer
+    description: 
+    type: heading
+    level: 2
+    collapsed: true
+  -
+    id: anp-pdf-blend-toggle
+    title: Toggle PDF background blending
+    desc: Blends PDF viewer background with obsidian background
+    type: class-toggle
 
 # Workspace :: Rainbow Folders
 
@@ -3095,7 +3110,7 @@ body {
   --anp-rainbow-folder-collapse-border-custom: #00000044;
   --anp-preview-width-pct: 95%;
   --anp-preview-width-max: 800px;
-  --anp-header-margin-value: 10px;
+  --anp-header-margin-value: 15px;
   --anp-header-font: "Noto Serif";
   --tab-stacked-pane-width: calc(var(--anp-tab-stacked-pane-width, 1)*var(--file-line-width));
   --anp-table-width-pct: 100%;
@@ -3109,6 +3124,11 @@ body {
   --callout-title-padding: var(--size-4-2);
   --callout-content-padding: var(--size-4-2);
   --background-modifier-active: hsla(var(--color-accent-hsl), 0.1);
+  --pdf-background: var(--background-primary);
+  --pdf-dark-opacity: 1;
+  --pdf-shadow: 0 0 0 1px rgba(0, 0, 0, 0.15), 0 2px 8px transparent;
+  --pdf-sidebar-background: var(--background-primary);
+  --pdf-thumbnail-shadow: 0 0 0 1px rgba(0, 0, 0, 0.15), 0 2px 8px transparent;
 }
 body.theme-light {
   --anp-background-image: var(--anp-background-image-light);
@@ -3421,6 +3441,28 @@ input.slider,
     color: rgb(var(--ctp-text));
   }
 }
+body:not(.anp-pdf-blend-toggle) {
+  --pdf-background: var(--background-secondary);
+  --pdf-shadow: 0 0 0 1px rgba(0, 0, 0, 0.1), 0 2px 8px transparent;
+  --pdf-thumbnail-shadow: 0 0 0 1px rgba(0, 0, 0, 0.1), 0 2px 8px transparent;
+}
+body:not(.anp-pdf-blend-toggle) .pdf-viewer .canvasWrapper,
+body:not(.anp-pdf-blend-toggle) .pdf-thumbnail-view .thumbnailImage {
+  filter: invert(1) hue-rotate(180deg);
+  mix-blend-mode: screen;
+}
+body:not(.anp-pdf-blend-toggle) .pdf-viewer {
+  background-color: var(--pdf-background);
+}
+body:not(.anp-pdf-blend-toggle) .pdf-viewer .page {
+  background-color: var(--background-primary);
+  border-color: var(--pdf-background);
+}
+
+.textLayer ::selection {
+  background: var(--color-accent);
+}
+
 .canvas-card-menu {
   box-shadow: none;
   border: 1px solid var(--background-modifier-border);
@@ -4108,7 +4150,7 @@ body.anp-border-layout .workspace {
 body.anp-border-layout .workspace:not(.is-left-sidedock-open) .workspace-split.mod-vertical .workspace-tabs .workspace-tab-container {
   border-left: var(--border-border-style);
 }
-body.anp-border-layout .workspace:not(.is-left-sidedock-open) .workspace-split.mod-vertical .workspace-tabs.mod-top .workspace-tab-container {
+body.anp-border-layout .workspace:not(.is-left-sidedock-open) .workspace-split.mod-vertical .workspace-tabs.mod-top-left-space .workspace-tab-container {
   border-top-left-radius: var(--anp-border-radius, var(--radius-xl));
 }
 body.anp-border-layout .workspace:not(.is-left-sidedock-open) .workspace-split.mod-vertical .workspace-tabs:last-child .workspace-tab-container {
@@ -5002,9 +5044,38 @@ sup[data-footnote-id] {
   color: var(--h6-color);
 }
 
-.anp-header-toggle.anp-header-margin-toggle :is(h1, h2, h3, h4, h5, h6) {
+.anp-header-margin-toggle .cm-header-1, .anp-header-margin-toggle .markdown-preview-view h1 {
   margin-block-start: var(--anp-header-margin-value);
   margin-block-end: var(--anp-header-margin-value);
+}
+
+.anp-header-margin-toggle .cm-header-2, .anp-header-margin-toggle .markdown-preview-view h2 {
+  margin-block-start: var(--anp-header-margin-value);
+  margin-block-end: var(--anp-header-margin-value);
+}
+
+.anp-header-margin-toggle .cm-header-3, .anp-header-margin-toggle .markdown-preview-view h3 {
+  margin-block-start: var(--anp-header-margin-value);
+  margin-block-end: var(--anp-header-margin-value);
+}
+
+.anp-header-margin-toggle .cm-header-4, .anp-header-margin-toggle .markdown-preview-view h4 {
+  margin-block-start: var(--anp-header-margin-value);
+  margin-block-end: var(--anp-header-margin-value);
+}
+
+.anp-header-margin-toggle .cm-header-5, .anp-header-margin-toggle .markdown-preview-view h5 {
+  margin-block-start: var(--anp-header-margin-value);
+  margin-block-end: var(--anp-header-margin-value);
+}
+
+.anp-header-margin-toggle .cm-header-6, .anp-header-margin-toggle .markdown-preview-view h6 {
+  margin-block-start: var(--anp-header-margin-value);
+  margin-block-end: var(--anp-header-margin-value);
+}
+
+.cm-header {
+  display: inline-block;
 }
 
 .anp-editor-font-toggle .markdown-source-view:not(.is-live-preview) {
@@ -6149,8 +6220,6 @@ body.anp-colorful-frame.anp-border-layout.anp-mini-tab-toggle .workspace-tabs.mo
   margin-inline-start: -15px;
   padding: 3px 10px !important;
   border-radius: 3px 10px 10px 10px;
-  margin-top: 8px;
-  margin-bottom: 8px;
   max-width: fit-content;
   color: var(--text-normal);
   --bold-color: var(--text-normal);
@@ -6251,8 +6320,6 @@ body.anp-colorful-frame.anp-border-layout.anp-mini-tab-toggle .workspace-tabs.mo
 
 .anp-speech-bubble .HyperMD-task-line[data-task="0"], .anp-speech-bubble .HyperMD-task-line[data-task="1"], .anp-speech-bubble .HyperMD-task-line[data-task="2"], .anp-speech-bubble .HyperMD-task-line[data-task="3"], .anp-speech-bubble .HyperMD-task-line[data-task="4"], .anp-speech-bubble .HyperMD-task-line[data-task="5"], .anp-speech-bubble .HyperMD-task-line[data-task="6"], .anp-speech-bubble .HyperMD-task-line[data-task="7"], .anp-speech-bubble .HyperMD-task-line[data-task="8"], .anp-speech-bubble .HyperMD-task-line[data-task="9"] {
   text-indent: 0px !important;
-  margin-top: 8px !important;
-  margin-bottom: 8px !important;
 }
 
 .anp-speech-bubble [data-task="0"] {
@@ -7885,5 +7952,3 @@ body.theme-dark.theme-dark {
   padding-bottom: 0;
   padding-top: 0;
 }
-
-

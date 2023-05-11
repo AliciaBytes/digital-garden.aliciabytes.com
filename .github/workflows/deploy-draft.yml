@@ -1,8 +1,5 @@
 name: deploy draft
 on:
-  push:
-    branches:
-      - main
   pull_request:
     branches:
       - main

@@ -3,9 +3,6 @@ on:
   push:
     branches:
       - main
-  pull_request:
-    branches:
-      - main
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -20,7 +17,7 @@ jobs:
       - name: Publish to Netlify
         uses: netlify/actions/cli@master
         with:
-          args: deploy --prod --dir=site --functions=functions
+          args: deploy --prod --dir=dist --functions=functions
         env:
           NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
