@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrp-gs/starting-with-a-pathfinder-group/","title":"Start with Pathfinder 2e","created":"2023-05-11T18:27:20.840+02:00","updated":"2023-05-11T18:40:55.098+02:00"}
+{"dg-publish":true,"permalink":"/ttrp-gs/starting-with-a-pathfinder-group/","title":"Start with Pathfinder 2e","created":"2023-05-11T18:27:20.840+02:00","updated":"2023-05-11T18:47:27.649+02:00"}
 ---
 
 
@@ -9,7 +9,7 @@ Pathfinder 2e build on the same roots as D&D and indeed 1st edition is relativel
 
 I quite like the flexibility of the setting and ideas behind the changes so far. It also allows an easier time with non-standard more unorthodox party constellation which don't work as well in other TTRPGs, for example a combat healer is nice to have, but far from necessary if nobody wants to play it. You should at least bring some out of combat healing though as it is heavily recommended to maybe necessary depending on campaign and party, it has more options for out of combat healing though which basically allows every single class to at least get a little bit, so shouldn't be hard to get at least something in the party.
 
-It also has the advantage of having all the rules content online for free and officially sanctioned, so it allows a lot of flexibility right of the bat while I don't have all the rule books. They make money with the books being a bit more organized and nicely laid out as well as the official lore books only being available for purchase and not part of the official free online content, see the section [[TTRPGs/Starting with a pathfinder group#Free online rules\|#Free online rules]] below.
+It also has the advantage of having all the rules content online for free and officially sanctioned, so it allows a lot of flexibility right of the bat while I don't have all the rule books. They make money with the books being a bit more organized and nicely laid out as well as the official lore books only being available for purchase and not part of the official free online content, see the section [Free online rules](#Free online rules) below.
 
 I would use an online tool ([Foundry VTT](https://foundryvtt.com)) for playing, so we don't have to physically be next to each other and also to reduce the required resources (handmade/printed maps, physical dice, **miniatures**, etc.). Since there is some official Pathfinder content available for it (beginner box and abomination vaults), some of the adventure choices could be really high professional quality.
 
