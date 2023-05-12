@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrp-gs/starting-with-a-pathfinder-group/","title":"Start with Pathfinder 2e","created":"2023-05-11T18:27:20.840+02:00","updated":"2023-05-11T20:20:45.810+02:00"}
+{"dg-publish":true,"permalink":"/ttrp-gs/starting-with-a-pathfinder-group/","title":"Start with Pathfinder 2e","created":"2023-05-11T18:27:20.840+02:00","updated":"2023-05-12T07:54:06.577+02:00"}
 ---
 
 
@@ -110,3 +110,11 @@ All the rules, character options, etc. are free and officially sanctioned on the
 - [Pathbuilder 2](https://pathbuilder2e.com) as an online character builder if you want to play around and create characters before I set up the campaign in Foundry. It also allows planning your character in advance if you want to already plan out future options you'd like to choose on level up.
 - [Wanderer's Guide](https://wanderersguide.app/) as an alternative character builder and site to share builds (among other things) if you want to once again play around with a character before I set up the campaign on Foundry.
 - **Warning: be wary of spoilers for adventures when using this.** [Pathfinder Wiki](https://pathfinderwiki.com/wiki/Pathfinder_Wiki) for lore and additional information.
+
+I also have a bunch of lore books where I can make content available:
+
+- Lost Omens: World Guide
+- Lost Omens: Character Guide
+- Lost Omens: Ancestry Guide
+- Lost Omens: Pathfinder Society Guide
+- Lost Omens: Legends
