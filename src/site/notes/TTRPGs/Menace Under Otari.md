@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrp-gs/menace-under-otari/","title":"Menace Under Otari","created":"2023-05-13T06:04:55.089+02:00","updated":"2023-05-13T07:19:30.894+02:00"}
+{"dg-publish":true,"permalink":"/ttrp-gs/menace-under-otari/","title":"Menace Under Otari","created":"2023-05-13T06:04:55.089+02:00","updated":"2023-05-13T08:28:57.398+02:00"}
 ---
 
 
@@ -34,3 +34,7 @@ The adventure comes with four pre-generated characters. You can choose one of th
 - Valeros, a human fighter
 - Merisiel, an elf rogue
 - Ezren, a human wizard
+
+---
+
+> This website uses trademarks and/or copyrights owned by Paizo Inc., used under Paizo's Community Use Policy ([paizo.com/communityuse](http://paizo.com/communityuse)). We are expressly prohibited from charging you to use or access this content. This website is not published, endorsed, or specifically approved by Paizo. For more information about Paizo Inc. and Paizo products, visit [paizo.com](http://paizo.com/).
