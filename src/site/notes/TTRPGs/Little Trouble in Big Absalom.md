@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrp-gs/little-trouble-in-big-absalom/","title":"Little Trouble in Big Absalom","created":"2023-05-13T06:56:19.843+02:00","updated":"2023-05-13T07:14:53.834+02:00"}
+{"dg-publish":true,"permalink":"/ttrp-gs/little-trouble-in-big-absalom/","title":"Little Trouble in Big Absalom","created":"2023-05-13T06:56:19.843+02:00","updated":"2023-05-13T08:29:02.418+02:00"}
 ---
 
 
@@ -21,3 +21,7 @@ You can build your own little Hookclaw kobold or choose one of the 5 pre-generat
 - Quizrel, a rogue
 - Rhin, a bard
 - Simeek, a fighter
+
+---
+
+> This website uses trademarks and/or copyrights owned by Paizo Inc., used under Paizo's Community Use Policy ([paizo.com/communityuse](http://paizo.com/communityuse)). We are expressly prohibited from charging you to use or access this content. This website is not published, endorsed, or specifically approved by Paizo. For more information about Paizo Inc. and Paizo products, visit [paizo.com](http://paizo.com/).
