@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrp-gs/otari-player-s-guide/","title":"Otari - Player's Guide","created":"2023-05-13T06:12:34.017+02:00","updated":"2023-05-13T08:23:59.819+02:00"}
+{"dg-publish":true,"permalink":"/ttrp-gs/otari-player-s-guide/","title":"Otari - Player's Guide","created":"2023-05-13T06:12:34.017+02:00","updated":"2023-05-13T08:26:28.148+02:00"}
 ---
 
 
@@ -10,6 +10,7 @@ This is a spoiler-free description and guide to Otari. The contents here are con
 The heroes might or might not know each other at the start of the campaign, but everyone should have some kind of connection in Otari that leads them to mission from Tamily Tanderveil at the local fishery.
 
 ![Otari Seaside Image](https://pathfinderwiki.com/w/images/e/e2/Otari_seaside.jpg)
+> This website uses trademarks and/or copyrights owned by Paizo Inc., used under Paizo's Community Use Policy ([paizo.com/communityuse](http://paizo.com/communityuse)). We are expressly prohibited from charging you to use or access this content. This website is not published, endorsed, or specifically approved by Paizo. For more information about Paizo Inc. and Paizo products, visit [paizo.com](http://paizo.com/).
 
 ## Otari Gazetteer
 
