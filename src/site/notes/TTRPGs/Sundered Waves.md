@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrp-gs/sundered-waves/","title":"Sundered Waves","created":"2023-05-13T07:07:28.530+02:00","updated":"2023-05-13T08:11:39.450+02:00"}
+{"dg-publish":true,"permalink":"/ttrp-gs/sundered-waves/","title":"Sundered Waves","created":"2023-05-13T07:07:28.530+02:00","updated":"2023-05-13T08:28:39.697+02:00"}
 ---
 
 
@@ -22,3 +22,7 @@ You can build your own character or choose one of the 4 pre-generated characters
 - Lavanna Saltspray, a halfling cleric
 - Elsir Syniras, an elf sorcerer
 - Jadren Tagar, a human fighter
+
+---
+
+> This website uses trademarks and/or copyrights owned by Paizo Inc., used under Paizo's Community Use Policy ([paizo.com/communityuse](http://paizo.com/communityuse)). We are expressly prohibited from charging you to use or access this content. This website is not published, endorsed, or specifically approved by Paizo. For more information about Paizo Inc. and Paizo products, visit [paizo.com](http://paizo.com/).
