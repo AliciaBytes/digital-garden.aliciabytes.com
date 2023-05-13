@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrp-gs/a-fistful-of-flowers/","title":"A Fistful of Flowers","created":"2023-05-13T07:03:55.529+02:00","updated":"2023-05-13T07:14:50.125+02:00"}
+{"dg-publish":true,"permalink":"/ttrp-gs/a-fistful-of-flowers/","title":"A Fistful of Flowers","created":"2023-05-13T07:03:55.529+02:00","updated":"2023-05-13T08:12:01.588+02:00"}
 ---
 
 
@@ -16,7 +16,7 @@ This adventure is designed for a party of level 3 leshy characters.
 
 ## Pre-generated Characters
 
-You can build your own little Hookclaw kobold or choose one of the 4 pre-generated characters:
+You can build your own leshy character or choose one of the 4 pre-generated characters:
 
 - Bottlespeeker, a druid and his plant minion "Twinsprout"
 - Fluff Fang, a bard
