@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathfinder-campaign-1/","title":"Pathfinder Campaign 1","created":"2023-05-13T04:23:03.934+02:00","updated":"2023-05-13T07:23:37.119+02:00"}
+{"dg-publish":true,"permalink":"/pathfinder-campaign-1/","title":"Pathfinder Campaign 1","created":"2023-05-13T04:23:03.934+02:00","updated":"2023-05-13T07:26:39.348+02:00"}
 ---
 
 
