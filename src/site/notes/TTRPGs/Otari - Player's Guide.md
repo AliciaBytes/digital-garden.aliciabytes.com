@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrp-gs/otari-player-s-guide/","title":"Otari - Player's Guide","created":"2023-05-13T06:12:34.017+02:00","updated":"2023-05-13T06:52:49.570+02:00"}
+{"dg-publish":true,"permalink":"/ttrp-gs/otari-player-s-guide/","title":"Otari - Player's Guide","created":"2023-05-13T06:12:34.017+02:00","updated":"2023-05-13T08:23:59.819+02:00"}
 ---
 
 
@@ -8,6 +8,8 @@
 This is a spoiler-free description and guide to Otari. The contents here are considered common knowledge among Otari's citizens and your characters can build of this setting. It's possible for your heroes to hail from Otari, but this is not necessary, as long as they are in the town for some reason.
 
 The heroes might or might not know each other at the start of the campaign, but everyone should have some kind of connection in Otari that leads them to mission from Tamily Tanderveil at the local fishery.
+
+![Otari Seaside Image](https://pathfinderwiki.com/w/images/e/e2/Otari_seaside.jpg)
 
 ## Otari Gazetteer
 
