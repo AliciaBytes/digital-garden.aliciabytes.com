@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrp-gs/sundered-waves/","title":"Sundered Waves","created":"2023-05-13T07:07:28.530+02:00","updated":"2023-05-13T07:15:04.940+02:00"}
+{"dg-publish":true,"permalink":"/ttrp-gs/sundered-waves/","title":"Sundered Waves","created":"2023-05-13T07:07:28.530+02:00","updated":"2023-05-13T08:11:39.450+02:00"}
 ---
 
 
@@ -16,7 +16,7 @@ This adventure is designed for a party of level 5 characters. What treasure did 
 
 ## Pre-generated Characters
 
-You can build your own little Hookclaw kobold or choose one of the 4 pre-generated characters:
+You can build your own character or choose one of the 4 pre-generated characters:
 
 - Kaaku Ashfeather, a tengu rogue
 - Lavanna Saltspray, a halfling cleric
