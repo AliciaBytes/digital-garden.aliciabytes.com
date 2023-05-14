@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/pathfinder-campaign-1/","title":"Pathfinder Campaign 1","created":"2023-05-13T04:23:03.934+02:00","updated":"2023-05-13T07:42:07.498+02:00"}
+{"dg-publish":true,"permalink":"/pathfinder-campaign-1/","title":"Pathfinder Campaign 1","created":"2023-05-13T04:23:03.934+02:00","updated":"2023-05-14T08:43:16.111+02:00"}
 ---
 
 
 # Pathfinder Campaign 1
 
-I want this to be a friendly and welcoming campaign with no previous experience required. I myself have experience playing a couple of shorter D&D campaigns and helping GM/co-GM as well as homebrew systems but will be new to playing and GMing Pathfinder. It'll hopefully also go on longer than my previous campaigns. We'll all go through an adventure that's meant to introduce everyone into the system and rules, no matter if you're completely new or used to a different TTRPG system with completely different rules. Pathfinder 2e has roots in D&D but the system has a few significant differences. All the rules for Pathfinder are available online for free and officially sanctioned, which gives everyone a lot of choice. I can also share content from lore and rules books when and if wanted.
+I want this to be a friendly and welcoming campaign with no previous experience required. I myself have experience playing a couple of shorter D&D campaigns and helping GM/co-GM as well as homebrew systems but will be new to playing and GMing Pathfinder. We'll all go through an adventure that's meant to introduce everyone into the system and rules, no matter if you're completely new or used to a different TTRPG system with completely different rules. Pathfinder 2e has roots in D&D but the system has a few significant differences. All the rules for Pathfinder are available online for free and officially sanctioned, which gives everyone a lot of choice. I can also share content from lore and rules books when and if wanted.
 
 ## Format, Frequency & Requirements
 
