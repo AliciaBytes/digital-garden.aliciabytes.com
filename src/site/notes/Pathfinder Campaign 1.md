@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathfinder-campaign-1/","title":"Pathfinder Campaign 1","created":"2023-05-13T04:23:03.934+02:00","updated":"2023-05-14T08:43:16.111+02:00"}
+{"dg-publish":true,"permalink":"/pathfinder-campaign-1/","title":"Pathfinder Campaign 1","created":"2023-05-13T04:23:03.934+02:00","updated":"2023-05-25T16:21:49.753+02:00"}
 ---
 
 
@@ -13,7 +13,7 @@ I would run the campaign online with one session (2-4h each session) once every 
 
 ## Session 0
 
-There will be a session 0 where we can go over character creation (feel free to already bring your finished character or concept in any stage along) and talk about how the group fits together or what connections there are between characters. We'll also talk about how we want the games to be and how it shouldn't be, or what shouldn't appear in game. I personally like a balance between roleplaying and combat, but the very start of the adventure will probably at first introduce the combat and exploration activities while social interactions with NPCs will be a bit after the basics of combat are done. We can also talk about lines and veils to make sure only content appears that everyone is okay with, or some other safety tools, either as part of session 0 or between the beginner adventure [[TTRPGs/Menace Under Otari\|Menace Under Otari]] and follow-up adventures, since the beginner adventure won't have any content that should be an issue.
+There will be a session 0 where we can go over character creation (there will be pregenerated characters to choose from, orfeel free to already bring your finished character or concept in any stage along if you want to build your own from scratch) and talk about how the group fits together or what connections there are between characters. We'll also talk about how we want the games to be, what we want to see in the game, what we don't want to see in the game and how it shouldn't be. I personally like a balance between roleplaying and combat, but the very start of the adventure will probably at first introduce the combat and exploration activities while social interactions with NPCs will be a bit after the basics of combat are done. We can also talk about lines and veils to make sure only content appears that everyone is okay with, or some other safety tools, either as part of session 0 or between the beginner adventure [[TTRPGs/Menace Under Otari\|Menace Under Otari]] and follow-up adventures, since the beginner adventure won't have any content that should be an issue.
 
 ### About Content Warnings
 
