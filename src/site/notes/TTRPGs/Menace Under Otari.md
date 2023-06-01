@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrp-gs/menace-under-otari/","title":"Menace Under Otari","created":"2023-05-13T06:04:55.089+02:00","updated":"2023-05-13T08:28:57.398+02:00"}
+{"dg-publish":true,"permalink":"/ttrp-gs/menace-under-otari/","title":"Menace Under Otari","created":"2023-05-13T06:04:55.089+02:00","updated":"2023-06-01T10:33:54.102+02:00"}
 ---
 
 
@@ -24,7 +24,7 @@
 
 ## More information about the town
 
-If you want to learn more about the town check out my overview in [[TTRPGs/Otari - Player's Guide\|Otari - Player's Guide]] or the [Abomination Vaults - Player's Guide](https://downloads.paizo.com/AbominationVaults_PlayersGuide.pdf) since it starts in Otari too.
+If you want to learn more about the town check out my the [Abomination Vaults - Player's Guide](https://downloads.paizo.com/AbominationVaults_PlayersGuide.pdf) since it starts in Otari too.
 
 ## Pre-generated Characters
 
