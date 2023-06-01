@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pathfinder-campaign-1/","title":"Pathfinder Campaign 1","created":"2023-05-13T04:23:03.934+02:00","updated":"2023-05-25T16:21:49.753+02:00"}
+{"dg-publish":true,"permalink":"/pathfinder-campaign-1/","title":"Pathfinder Campaign 1","created":"2023-05-13T04:23:03.934+02:00","updated":"2023-06-01T10:38:06.555+02:00"}
 ---
 
 
@@ -21,18 +21,18 @@ I'll always let you know about content warnings for the adventures I'm gonna run
 
 ## Adventure & Campaign Setting
 
-Since I'm new to Pathfinder myself and don't have that much experience GMing either I want to start slowly with some official adventures and content. I'll still try to modify and adjust it here and there, but we won't go into a full on custom world. My plan is to start with the "Menace under Otari" adventure that's part of the Pathfinder Beginner Box and well thought out to introduce the system and mechanics to everyone. Then we can build on top of it with "Troubles in Otari" to further the story in Otari and the surrounding area a bit, or go to one of a few one-shots as options for some smaller adventures at different levels for people to try different classes and some shorter fun adventures, or go straight into the "Abomination Vaults" which is a full on adventure path from level 1-11 which we could continue further after. Some of the content comes with pre-generated characters to choose from if you don't want to build your own. They all have a backstory and art already.
+Since I'm new to Pathfinder myself and don't have that much experience GMing either I want to start slowly with some official adventures and content. I'll still try to modify and adjust it here and there, but we won't go into a full on custom world. My plan is to start with the [[TTRPGs/Menace Under Otari\|Menace Under Otari]] adventure that's part of the Pathfinder Beginner Box and well thought out to introduce the system and mechanics to everyone. Then we gonna transition into the [[TTRPGs/Abomination Vaults\|Abomination Vaults]] with the same characters. If wanted there's the option to shove in some smaller adventure in between [[TTRPGs/Menace Under Otari\|Menace Under Otari]] and [[TTRPGs/Abomination Vaults\|Abomination Vaults]] to get more comfortable characters or try different characters before going for a full on adventure path, but we can talk about that as we get to the end of [[TTRPGs/Menace Under Otari\|Menace Under Otari]] and ultimately the plan is to start the [[TTRPGs/Abomination Vaults\|Abomination Vaults]]anyways.
 
 So it would look something like this:
 
 - [[TTRPGs/Menace Under Otari\|Menace Under Otari]] (Beginner Box, getting to know the system)
-- Advancing with a few different choices:
+- **Optionally** some smaller adventure in between:
     - [[TTRPGs/Troubles in Otari\|Troubles in Otari]] and advancing the story around Otari a bit further
     - Choice of a couple of one-shots for some short time funs and more flexibility trying different characters and scenarios, for example:
         - [[TTRPGs/Little Trouble in Big Absalom\|Little Trouble in Big Absalom]]
         - [[TTRPGs/A Fistful of Flowers\|A Fistful of Flowers]]
         - [[TTRPGs/Sundered Waves\|Sundered Waves]]
-    - Start the [[TTRPGs/Abomination Vaults\|Abomination Vaults]] for a longer term adventure path
+- Start the [[TTRPGs/Abomination Vaults\|Abomination Vaults]] for a longer term adventure path
 
 ## Resources
 
